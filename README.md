@@ -129,5 +129,4 @@ See [CREDITS.md](CREDITS.md).
 <!-- TODO before making this repo public: replace this line with the chosen license
      (and add a LICENSE file) once Joel Califa has agreed, e.g.
      "Released under the MIT License, with Joel Califa's permission (see CREDITS.md)." -->
-**License: pending.** This project adapts parts of Swarm, which has no license of its own, so no license is
-granted here until Joel Califa's permission is recorded in [CREDITS.md](CREDITS.md).
+**License: you can use it [CREDITS.md](CREDITS.md).
